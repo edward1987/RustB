@@ -1,9 +1,7 @@
-# rustPlusPlus Documentation
+# RustB Documentation
 
 ## Table of Contents
 
-* [**Installation**](installation.md)
-* [**Discord Bot Setup**](discord_bot_setup.md)
 * [**FCM Credentials**](credentials.md)
 * [**Pair & Connect Server**](pair_and_connect_to_server.md)
 * [**Commands**](commands.md)
